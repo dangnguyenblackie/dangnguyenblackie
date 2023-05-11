@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi, My name is Dang Nguyen Phuc<br>I am currently studying at HCMUT in Vietnam (Junior).<br>I'm interested in Cryptography and IoT things<br>...<br>
+* ✋ Hi, My name is Dang Nguyen Phuc.
+* 📖 I am currently studying at HCMUT in Vietnam (Junior).
+* 🌸 I'm interested in Cryptography and IoT things.
 
 # 🔐 Hacking
 ## Cryptohack: 
